@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: Ara dizin (x64\Debug\) başka bir projeden (ClassYapisiniOgreniyorum.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  Kaynak.cpp
+  ClassYapisiniOgreniyorum.vcxproj -> C:\Users\MelihGuler\source\repos\ClassYapisiniOgreniyorum\x64\Debug\C++UzerindeNesneVeSinifTanimlamalariVeNesneOzellikleri.exe

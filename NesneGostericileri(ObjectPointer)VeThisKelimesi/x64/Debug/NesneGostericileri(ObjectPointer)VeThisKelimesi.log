@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+C:\Users\MelihGuler\source\repos\NesneGostericileri(ObjectPointer)VeThisKelimesi\Kaynak.cpp(13,7): warning C4101: 'p': yerel değişken başvurusu kaldırıldı
+  NesneGostericileri(ObjectPointer)VeThisKelimesi.vcxproj -> C:\Users\MelihGuler\source\repos\NesneGostericileri(ObjectPointer)VeThisKelimesi\x64\Debug\NesneGostericileri(ObjectPointer)VeThisKelimesi.exe

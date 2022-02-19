@@ -1,0 +1,4 @@
+﻿  Kaynak.cpp
+C:\Users\MelihGuler\source\repos\MetotlarinYenidenTanimlanmasi(MethodOverloading)\Kaynak.cpp(16,11): warning C4244: '=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\MelihGuler\source\repos\MetotlarinYenidenTanimlanmasi(MethodOverloading)\Kaynak.cpp(35,16): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+  MetotlarinYenidenTanimlanmasi(MethodOverloading).vcxproj -> C:\Users\MelihGuler\source\repos\MetotlarinYenidenTanimlanmasi(MethodOverloading)\x64\Debug\MetotlarinYenidenTanimlanmasi(MethodOverloading).exe

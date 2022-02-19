@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "22a90876-d02a-479f-8546-83eda558b383": {
+      "ProjectGuid": "22a90876-d02a-479f-8546-83eda558b383",
+      "DisplayName": "NesnelerinParametreOlarakGecirilmesi",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
